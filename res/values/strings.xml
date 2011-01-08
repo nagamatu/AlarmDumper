@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlarmDumper</string>
+    <string name="updating">Updating...</string>
+    <string name="title_menu_refresh">Update</string>
+    <string name="ok">OK</string>
+    <string name="title_noroot">Require root privilege</string>
+    <string name="description_noroot">You need root privilege on this device for using AlarmDumper.\n\nYou can find out the way to get rooted by search the word \"rooted\" and your device name.</string>
+    <string name="rtc">RTC</string>
+    <string name="rtc_wakeup">RTC_WAKEUP</string>
+    <string name="elapsed">ELAPSED</string>
+</resources>
